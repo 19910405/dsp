@@ -4,7 +4,8 @@
 require 'dsp/api/account'
 require 'dsp/api/upload_ads_info'
 require 'dsp/api/ads_info_sync'
-
+require 'dsp/api/illegal_ads'
+require 'dsp/api/ads_status'
 
 module DSP
 	module API
