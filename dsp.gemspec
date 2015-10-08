@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.version       = DSP::VERSION
   spec.authors       = ["姚露"]
   spec.email         = ["y1150264176@163.com"]
-  spec.summary       = %q{dsp for tx}
-  spec.description   = %q{dsp for tx}
+  spec.summary       = %q{dsp}
+  spec.description   = %q{dsp}
   spec.homepage      = ""
   spec.license       = "GNU"
 

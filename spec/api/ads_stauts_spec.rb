@@ -8,7 +8,7 @@ describe ::DSP::API::AdsStatus do
 
   context '#download' do
     it 'download ads status and return ret_code == 0 if success' do
-    	res = ::DSP::API::AdsStatus.download('123')
+    	res = ::DSP::API::AdsStatus.download(123)
     	expect(res["ret_code"]).to eq 0
     end
   end
