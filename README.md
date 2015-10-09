@@ -44,7 +44,8 @@
 上传广告信息
 ----
 
-`::DSP::API::UploadAdsInfo.upload('广告url', 广告id)`
+`::DSP::API::UploadAdsInfo.upload(options={})`
+
 example: 
-`::DSP::API::UploadAdsInfo.upload('http://dsp.hogic.cn/Public/Uploads/201508/55e00f321ba3c.flv', 123)`
+`::DSP::API::UploadAdsInfo.upload(file_url: 'http://dsp.hogic.cn/Public/Uploads/201508/55e00f321ba3c.flv', dsp_order_id: 123, client_name: '浩趣互动', targeting_url: 'http://dsp.hogic.cn', monitor_url: [])`
 
