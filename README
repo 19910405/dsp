@@ -6,6 +6,7 @@
 ##账号
 
 *设置mapping url【set_mapping_url】 `::DSP::API::Account.set_mapping_url('http://www.baidu.com')`
+
 *设置bid url【set_bid_url】
 *设置win notice url【set_win_notice_url】
 *设置qps【set_qps】 `::DSP::API::Account.set_qps('http://www.baidu.com')`
