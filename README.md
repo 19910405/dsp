@@ -49,3 +49,11 @@
 example: 
 `::DSP::API::UploadAdsInfo.upload(file_url: 'http://dsp.hogic.cn/Public/Uploads/201508/55e00f321ba3c.flv', dsp_order_id: 123, client_name: '浩趣互动', targeting_url: 'http://dsp.hogic.cn', monitor_url: [])`
 
+##TEA算法解密价格
+
+useage: 
+
+`::DSP::TEA::decryptString(encryptedStr, key)`
+
+`
+
