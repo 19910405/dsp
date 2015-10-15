@@ -55,5 +55,4 @@ useage:
 
 `::DSP::TEA::decryptString(encryptedStr, key)`
 
-`
-
+end
